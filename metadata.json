@@ -1,0 +1,7 @@
+{
+  "name": "المنصة العقارية - Royal Estate",
+  "description": "منصة عقارية فاخرة لإدارة الممتلكات والفرق العقارية بتصميم ملكي",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
